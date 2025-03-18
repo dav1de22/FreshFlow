@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService", "UserService\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{92922316-B7BA-471F-B74F-F077B26A369C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{007BBC5F-6A0C-4161-B862-614A0A3F96EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{92922316-B7BA-471F-B74F-F077B26A369C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92922316-B7BA-471F-B74F-F077B26A369C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92922316-B7BA-471F-B74F-F077B26A369C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007BBC5F-6A0C-4161-B862-614A0A3F96EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007BBC5F-6A0C-4161-B862-614A0A3F96EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007BBC5F-6A0C-4161-B862-614A0A3F96EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007BBC5F-6A0C-4161-B862-614A0A3F96EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
